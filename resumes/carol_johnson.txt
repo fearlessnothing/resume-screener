@@ -1,0 +1,41 @@
+Carol Johnson
+Email: carol.j@email.com | Phone: 555-0192
+
+SUMMARY
+Motivated professional with 5 years of experience in retail management and customer service.
+Recently started learning to code through YouTube tutorials and am excited about a career
+change into technology. Hard worker, quick learner, and excellent communicator.
+
+SKILLS
+Microsoft Office (Word, Excel, PowerPoint)
+Customer relationship management (CRM tools — Salesforce, basic use)
+Team leadership and scheduling
+Inventory tracking (manual spreadsheets)
+Currently learning: Python (1 month, following a YouTube series)
+Currently learning: HTML basics
+
+EXPERIENCE
+Assistant Store Manager — TrendMart Retail                      2021 – Present
+- Managed a team of 12 sales associates across two shifts
+- Handled inventory reconciliation using Excel spreadsheets
+- Trained new employees on POS systems and store procedures
+- Resolved customer escalations and maintained a 4.7/5 satisfaction score
+
+Sales Associate — QuickShop Grocery                             2019 – 2021
+- Operated checkout registers and handled cash management
+- Stocked shelves and maintained product displays
+
+PROJECTS
+None (currently building first project following a YouTube tutorial)
+
+EDUCATION
+High School Diploma — Lincoln High School                       2018
+Currently enrolled: "Python for Absolute Beginners" (YouTube, free course, in progress)
+
+CERTIFICATIONS
+Salesforce Certified Associate — 2023 (CRM platform, not programming)
+
+ADDITIONAL
+Very enthusiastic about technology and committed to learning
+Plan to enroll in a bootcamp within the next 6 months
+No Git, database, or API experience yet

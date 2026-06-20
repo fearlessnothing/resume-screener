@@ -1,0 +1,40 @@
+Alice Chen
+Email: alice.chen@email.com | GitHub: github.com/alicechen | LinkedIn: linkedin.com/in/alicechen
+
+SUMMARY
+Recent coding bootcamp graduate with 1.5 years of Python development experience through
+bootcamp projects and a 6-month junior developer contract. Passionate about building clean,
+tested backend services and eager to grow in a collaborative team environment.
+
+SKILLS
+Languages:      Python, SQL, JavaScript (basic)
+Frameworks:     Flask, Django (learning), pytest
+Databases:      PostgreSQL, SQLite
+Tools:          Git, GitHub, Docker (basic), Postman
+Cloud:          AWS S3 (basic file uploads)
+Workflow:       Agile/Scrum, Jira
+
+EXPERIENCE
+Junior Backend Developer (Contract) — DataFlow Inc.           Jan 2024 – Jun 2024
+- Built and maintained 4 REST API endpoints in Flask serving 2,000+ daily requests
+- Wrote unit tests with pytest, achieving 78% code coverage on new modules
+- Collaborated with a team of 5 using Git feature-branch workflow and pull request reviews
+- Migrated a legacy SQLite schema to PostgreSQL, writing migration scripts in Python
+
+PROJECTS
+Resume Parser CLI (Personal Project)
+- Command-line tool in Python that parses .txt and .pdf resumes and extracts structured data
+- Used argparse, pathlib, and regex; stored results in SQLite
+
+Inventory API (Bootcamp Capstone)
+- RESTful API built with Flask and PostgreSQL to manage product inventory
+- Full CRUD operations, input validation, and 90% pytest coverage
+- Deployed to AWS EC2 with a basic CI pipeline using GitHub Actions
+
+EDUCATION
+Full-Stack Python Bootcamp Certificate — CodeCraft Academy       2023
+Bachelor of Arts, Communications — State University              2021
+
+ADDITIONAL
+Open source contributor: submitted 2 bug-fix PRs to a popular Python CLI library
+Completed AWS Cloud Practitioner Essentials course (not yet certified)

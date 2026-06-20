@@ -1,0 +1,43 @@
+Bob Martinez
+Email: bob.martinez@email.com | GitHub: github.com/bobdev
+
+SUMMARY
+Self-taught web developer with 2 years of experience primarily in JavaScript and Node.js.
+Completed a short Python course online and used Python for scripting tasks at my current
+job. Looking to transition more fully into backend Python development.
+
+SKILLS
+Languages:      JavaScript, Node.js, Python (basic scripting), HTML, CSS
+Frameworks:     Express.js, React (beginner)
+Databases:      MongoDB, MySQL (basic SELECT queries)
+Tools:          Git, npm, VS Code
+Other:          REST API consumption (client-side), basic Linux commands
+
+EXPERIENCE
+Junior Web Developer — Bright Digital Agency                    Mar 2023 – Present
+- Built and maintained client websites using JavaScript and Express.js
+- Wrote automation scripts in Python to rename/organize files in bulk (no web dev use)
+- Consumed third-party REST APIs (Stripe, Mailchimp) from the frontend using fetch()
+- Used Git daily for version control with a 3-person team
+
+Freelance Web Designer — Self-employed                          2021 – 2023
+- Designed and deployed 8 small business websites using HTML/CSS and WordPress
+- No backend or database work involved
+
+PROJECTS
+Weather Dashboard (Personal)
+- Node.js + Express app that calls a weather API and renders results with a template engine
+- Used MySQL for caching recent queries (basic INSERT/SELECT)
+
+Python File Organizer (Personal)
+- Script that sorts files in a directory by extension using os and shutil
+- No web or database component
+
+EDUCATION
+Associates Degree, Web Design — Community College of Tech        2022
+Udemy Python Bootcamp (online, self-paced) — 2023, not completed (60%)
+
+ADDITIONAL
+Comfortable with REST APIs but primarily as a consumer, not a builder
+Interested in learning Flask or Django — no project experience yet
+No testing framework experience

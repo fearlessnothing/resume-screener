@@ -1,0 +1,36 @@
+{
+  "title": "Junior Python Developer",
+  "company": "Acme Tech Solutions",
+  "summary": "We're looking for an entry-level Python developer to join our backend team. You'll build and maintain REST APIs, write clean and testable code, and collaborate with senior engineers on data-driven features.",
+  "required_skills": [
+    "Python (1+ year of experience or bootcamp equivalent)",
+    "Git and version control workflows",
+    "SQL and relational databases",
+    "REST API design and consumption",
+    "Basic data structures and algorithms"
+  ],
+  "experience": {
+    "years_required": "0-2",
+    "note": "Bootcamp graduates and career changers with demonstrable projects are welcome."
+  },
+  "education": {
+    "preferred": "Bachelor's degree in Computer Science, Software Engineering, or related field",
+    "acceptable_alternatives": [
+      "Coding bootcamp certificate with strong portfolio",
+      "Associate's degree with relevant experience"
+    ]
+  },
+  "nice_to_haves": [
+    "Django or Flask web framework",
+    "Docker and containerization basics",
+    "Cloud platform experience (AWS, GCP, or Azure)",
+    "Unit testing with pytest",
+    "Familiarity with Agile/Scrum workflows"
+  ],
+  "scoring_weights": {
+    "required_skills": 40,
+    "experience": 30,
+    "education": 20,
+    "nice_to_haves": 10
+  }
+}
